@@ -1,9 +1,3 @@
-# Customer-Sementation-Project
-
-Here’s a polished and professional write-up for your GitHub portfolio. You can copy and paste it into your repository's `README.md` file:
-
----
-
 # **Work Order Backlog Management Dashboard**  
 A Power BI dashboard providing actionable insights into work order backlog management using advanced data cleaning and transformation techniques with Power Query.  
 
