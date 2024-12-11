@@ -46,7 +46,7 @@ Explore the Power BI dashboard [here](./PowerBI/WorkOrderBacklog.pbix).
   - Planned vs. executed hours for monitoring resource utilization.  
 
 ### **3. Insights and Recommendations**  
-- High-backlog areas identified in Drilling and Maintenance departments.  
+- High-backlog areas identified in Integrity and Maintenance departments.  
 - Long-duration backlogs (>50 days) flagged for immediate action.  
 - Underutilized planned hours optimized through better resource alignment.  
 
